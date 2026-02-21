@@ -1,1 +1,1 @@
-# Lab3-Django-and-MVT-Architecture
+# Lab3-Django
